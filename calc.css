@@ -1,0 +1,47 @@
+body{
+	background:url(https://img-fotki.yandex.ru/get/484029/24925674.19c/0_18830e_91c019ee_orig.jpg)
+}
+.btn{
+background-color:#c03ec1c9;
+width: 90px;
+height:50px;
+color:#000;
+text-transform:uppercase;
+border-radius:6px;
+padding:0;
+cursor:pointer;
+border:2px solid #ea;
+font-size: 27px;
+
+}
+.btn:hover{
+	color:#ff0000;
+}
+.сalc{
+	border-radius:8px;
+	border: 12px solid #fff;
+	background-color:#fff;
+}
+.container{
+	background-color:##9266a645;
+	width:385px;
+	height:500px;
+}
+.calc_display_input{
+	width:375px;
+	height:30px;
+	background-color:#c03ec1c9;
+	font-size:28px;
+	font:bold;
+	color:#000;
+}
+#left{
+	background-color:black;
+	width:300;
+	height:auto;
+}
+#right{
+	background-color:black;
+	width:300;
+	height:auto;
+}
